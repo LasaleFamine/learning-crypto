@@ -1,11 +1,19 @@
-# Learning Ethereum
+# Learning Crypto Currencies
 
-> Resources to learn more about the blockchain platform [Ethereum](ethereum.com)
+> Resources to learn more about Crytpo Currencies, blockchain. Focus on [Ethereum](ethereum.com) and few others.
 
-In order:
+## Blockchain
+
+  - [ ] [Blockchain (wikiwand)](http://www.wikiwand.com/en/Blockchain)
+  - [ ] [Blockchain explained (video demo)](https://anders.com/blockchain/)
+  - [ ] [naivechain (blockchain in 200 lines of code)](https://github.com/lhartikk/naivechain)
+
+<details><summary><b>Ethereum</b></summary><p>
 
 - [ ] [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper) (***IN PROGRESS***)
-
 - [ ] [What is Ethereum (documentation)](http://www.ethdocs.org/en/latest/introduction/what-is-ethereum.html)
 - [ ] [A begginer's guide to Ethereum (big image)](https://blog.ethereum.org/wp-content/uploads/2015/06/Ethereum-image-infographic-beginners-guide.png)
 - [ ] [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
+  
+  
+</p></details>    
