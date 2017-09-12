@@ -2,6 +2,9 @@
 
 > Resources to learn more about Crytpo Currencies, blockchain. Focus on [Ethereum](ethereum.com) and few others.
 
+## Miscellaneous & resources
+- [Awesome Coins](https://github.com/kennethreitz/awesome-coins)
+
 ## Blockchain
 
   - [ ] [Blockchain (wikiwand)](http://www.wikiwand.com/en/Blockchain)
