@@ -7,7 +7,7 @@
 
 ## Blockchain
 
-  - [ ] [Blockchain (wikiwand)](http://www.wikiwand.com/en/Blockchain)
+  - [x] [Blockchain (wikiwand)](http://www.wikiwand.com/en/Blockchain)
   - [ ] [Blockchain explained (video demo)](https://anders.com/blockchain/)
   - [ ] [naivechain (blockchain in 200 lines of code)](https://github.com/lhartikk/naivechain)
   
