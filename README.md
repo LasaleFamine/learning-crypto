@@ -24,3 +24,12 @@
   
   
 </p></details>    
+
+<details><summary><b>Monero</b></summary><p>
+
+- [ ] [What is Monero](https://getmonero.org/get-started/what-is-monero/)
+- [ ] [/r/Monero new comers: everything you need to know](https://www.reddit.com/r/Monero/comments/5zgail/rmonero_newcomers_please_read_everything_you_need/)
+- [ ] [Beginners guide to Monero](https://medium.com/@linda.xie/a-beginners-guide-to-monero-7a5df2c50ed9)
+  
+  
+</p></details>   
