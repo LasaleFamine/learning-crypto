@@ -10,6 +10,7 @@
   - [x] [Blockchain (wikiwand)](http://www.wikiwand.com/en/Blockchain)
   - [x] [Blockchain explained (video demo)](https://anders.com/blockchain/)
   - [ ] [naivechain (blockchain in 200 lines of code)](https://github.com/lhartikk/naivechain)
+        - [Medium article](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54)
   
 ## Coins
 
