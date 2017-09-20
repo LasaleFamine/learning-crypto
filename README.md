@@ -24,6 +24,8 @@
 - [ ] [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
 - [ ] An introduction to Ethereum Smart Contracts: [p1](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts/) - [p2](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2) - [p3](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-3)
 - [ ] [EthList](https://github.com/Scanate/EthList)
+
+- [DApps List](https://dapps.ethercasts.com)
   
   
 </p></details>    
