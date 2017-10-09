@@ -23,7 +23,7 @@
 - [x] [A begginer's guide to Ethereum (big image)](https://blog.ethereum.org/wp-content/uploads/2015/06/Ethereum-image-infographic-beginners-guide.png)
 - [ ] [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
 - [ ] An introduction to Ethereum Smart Contracts: [p1](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts/) - [p2](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2) - [p3](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-3)
-- [ ] [Understanding Ethereum](https://hackernoon.com/the-top-critiques-on-ethereum-a-bubble-waiting-to-pop-6ccf9b577d11)
+- [x] [Understanding Ethereum](https://hackernoon.com/the-top-critiques-on-ethereum-a-bubble-waiting-to-pop-6ccf9b577d11)
 
 #### Useful links
 - [EthList](https://github.com/Scanate/EthList)
