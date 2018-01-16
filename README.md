@@ -14,6 +14,7 @@
     - [x] [Medium article](https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54)
     - [ ] [Todo: Personal implementation]()
   
+  - [ ] [Blockchain applications](https://blockgeeks.com/guides/blockchain-applications/)
 ## Coins
 
 <details><summary><b>Ethereum</b></summary><p>
