@@ -25,6 +25,8 @@
 - [ ] [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
 - [ ] An introduction to Ethereum Smart Contracts: [p1](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts/) - [p2](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2) - [p3](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-3)
 - [x] [Understanding Ethereum](https://hackernoon.com/the-top-critiques-on-ethereum-a-bubble-waiting-to-pop-6ccf9b577d11)
+- [x] [Ethereum for Web Developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
+- [ ] Ethereum Voting DApp: [p1](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2) - [p2](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-2-30b3d335aa1f) - [p3](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-3-331c2712c9df)
 
 #### Useful links
 - [EthList](https://github.com/Scanate/EthList)
